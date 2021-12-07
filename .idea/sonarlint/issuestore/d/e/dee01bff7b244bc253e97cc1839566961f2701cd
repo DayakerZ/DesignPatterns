@@ -1,0 +1,14 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(†ÛÌ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯ÿ­Œøÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÿ¾İ¬ûÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(²³Ì•øÿÿÿÿ
+h
+java:S2975'"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 
+=
+java:S1185'"(Remove this method to simply inherit it.(™”” 
+V	java:S125I"<This block of commented-out lines of code should be removed.(ğÓŠÎÿÿÿÿÿ
+-
+java:S1700"Rename field "password"(†ÛÌ
